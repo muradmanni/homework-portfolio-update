@@ -258,6 +258,10 @@ nav ul li:hover{
     text-align: center;
 }
 
+a:hover{
+    color:white;
+}
+
 @media screen and (max-width: 768px) {
     /* Use flex-direction to stack the navbar, sidebar, and body */
 
